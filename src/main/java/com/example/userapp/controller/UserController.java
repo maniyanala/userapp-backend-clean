@@ -9,7 +9,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/users")
-@CrossOrigin(origins = "https://userapp-frontend-clean.onrender.com")
+@CrossOrigin(origins = "https://userapp-frontend-clean-u4rq.onrender.com")
 public class UserController {
 
     private final UserService service;
